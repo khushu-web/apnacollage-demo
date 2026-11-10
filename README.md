@@ -1,3 +1,3 @@
 # apnacollage-demo
-This is my first Git repository./n
+This is my first Git repository.
 author=khushbu bagria
